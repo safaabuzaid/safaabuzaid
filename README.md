@@ -1,4 +1,4 @@
-![Safaa's banner](C:\Users\Owner\Desktop\MIT_CDS\safaabuzaid\banner.gif)
+![Safaa's banner](https://github.com/safaabuzaid/safaabuzaid/blob/main/banner.gif)
 
 # Hi there 👋, I'm Safaa
 
