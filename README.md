@@ -1,3 +1,4 @@
+![Safaa's banner](C:\Users\Owner\Desktop\MIT_CDS\safaabuzaid\banner.gif)
 
 # Hi there 👋, I'm Safaa
 
