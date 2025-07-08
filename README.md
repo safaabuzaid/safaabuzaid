@@ -3,7 +3,8 @@
 # Hi there 👋, I'm Safaa
 
 I’m a biomedical engineer on a mission to make AI in healthcare 
-*actually work* — not just in theory, but in messy, real-world clinics
+*actually work* — not just in theory, but in messy, real-world 
+clinics
 
 ## About Me
 
