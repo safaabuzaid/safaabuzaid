@@ -2,8 +2,8 @@
 
 # Hi there 👋, I'm Safaa
 
-I’m a biomedical engineer on a mission to make AI in healthcare 
-*actually work* — not just in theory, but in messy, real-world 
+I’m a biomedical engineer on a mission to make AI in healthcares
+*actually work* — not just in theory, but in messy, real-world
 clinics
 
 ## About Me
@@ -49,6 +49,6 @@ department during COVID-19 pandemic using technology I.R 4.0*
 
 ---
 
-💬 Always open to talk AI x healthcare, global health equity, 
+💬 Always open to talk AI x healthcare, global health equity,
 or cool PyTorch projects.  
 Let’s build tools that not only *perform*, but actually *matter*.
