@@ -2,6 +2,8 @@
 
 # Hi there 👋, I'm Safaa
 
+I’m a biomedical engineer on a mission to make AI in healthcare *actually work* — not just in theory, but in messy, real-world clinics
+
 ## About Me
 
 - 🎓 I have a Master's degree in Biomedical Engineering
@@ -11,11 +13,21 @@ and healthcare technology.
 
 - 🧠 Passionate about integrating AI into healthcare and advancing personalized medicine.
 
-- 💻 Currently exploring computational neuroscience and biomaterials.
+---
+
+🧠 Currently diving into:
+- Explainable AI  
+- Computational pathology & medical image analysis  
+- Python, PyTorch & GANs  
+- Ethical and responsible tech in healthcare
 
 ---
 
 ## My Research Contributions
+
+- *Science NextGen Voices Contributor*
+
+🌟Published in: [Science](https://doi.org/10.1126/science.adx0308)  
 
 - *Cardiac patient management system in the emergency
 department during COVID-19 pandemic using technology I.R 4.0*
@@ -34,7 +46,5 @@ department during COVID-19 pandemic using technology I.R 4.0*
 
 ---
 
-## Connect with ME
-
-[LinkedIn](https://www.linkedin.com/in/safaa-osman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[Instagram](https://www.instagram.com/safaa.abuzaid.3/)
+💬 Always open to talk AI x healthcare, global health equity, or cool PyTorch projects.  
+Let’s build tools that not only *perform*, but actually *matter*.
